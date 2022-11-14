@@ -8,7 +8,7 @@ big2.o:big2.c
 fact.o:fact.c
 	gcc -c fact.c
 reverse.o:reverse.c
-        gcc -c reverse.c
+	gcc -c reverse.c
 fibans.o:fibans.c
 	gcc -c fibans.c
 pallind.o:pallind.c
